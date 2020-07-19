@@ -10,12 +10,13 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin: Dasy Dong](https://img.shields.io/badge/-DasyDong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dasy-dong-83392970/)](https://www.linkedin.com/in/dasy-dong-83392970/)
 <a href="https://gitstar-ranking.com/repositories"> <img src="https://badgen.net/badge/Rank/9999?icon=github&color=red"></a>
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://github.com/DasyDong/dasydong.github.io/blob/master/img/about-bg.jpg" />
-&nbsp;
+
+<!-- Talking about you -->
+**Talking about Personal Stuffs:**
+
 
 - 👨🏽‍💻 I’m currently working on [Interview](https://github.com/dasydong/interview);
 - 🌱 I’m currently learning Go and K8s;
@@ -25,7 +26,6 @@ You can use the website to generate badges: https://shields.io/
 
 
 **Languages and Tools:**
-&nbsp;
 
 <!-- Your github readme stats
 You can use this api: https://github.com/dasydong/github-readme-stats
