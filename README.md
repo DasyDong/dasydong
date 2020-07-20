@@ -40,13 +40,13 @@ You can use this api: https://github.com/dasydong/github-readme-stats
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="10%" height="50"  src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+  <code><img width="10%" height="50"  src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/cncfio/cncfio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg"></code>
   <br />
