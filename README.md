@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://github.com/DasyDong/dasydong.github.io/blob/master/img/about-bg.jpg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
