@@ -18,9 +18,8 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 
-- 👨🏽‍💻 I’m currently working on [Interview](https://github.com/dasydong/interview);
-- 🌱 I’m currently learning Go and K8s;
-- 👯 I’m looking to collaborate on [Interview](https://github.com/dasydong/interview) 🤝;
+- 🌱 I’m currently working on Go and K8s;
+- 👯 I’m looking to collaborate on [developer-roadmap](https://github.com/dasydong/developer-roadmap) 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dasydong@gmail.com;
 
