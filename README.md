@@ -19,8 +19,6 @@ You can use the website to generate badges: https://shields.io/
 
 
 - 🌱 I’m currently working on Go and K8s;
-- 👯 I’m looking to collaborate on [developer-roadmap](https://github.com/dasydong/developer-roadmap) 
-- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dasydong@gmail.com;
 
 
