@@ -31,7 +31,7 @@ You can use this api: https://github.com/dasydong/github-readme-stats
   <a href="https://github.com/dasydong/">
     <img  margin-top="-30px" width="55%" align="right" alt="dasydong's github stats" src="https://github-readme-stats.vercel.app/api?username=dasydong&show_icons=true&hide_border=true" />
   </a>
-
+   <a href="https://gitfut.com/dasydong"><img src="https://gitfut.com/dasydong.png" width="240" alt="GitFut card"></a>
   <!-- Your languages and tools. Be carefufal with the alignment.
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
